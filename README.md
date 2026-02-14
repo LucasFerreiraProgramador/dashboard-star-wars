@@ -79,7 +79,7 @@ index.html
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/LucasFerreira" target="_blank">Lucas Ferreira</a>
+Made with :heart: by <a href="[https://github.com/LucasFerreira](https://github.com/LucasFerreiraProgramador)" target="_blank">Lucas Ferreira</a>
 
 &#xa0;
 
