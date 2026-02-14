@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <title>Document</title>
+</head>
+<body>
+  <div class="container">
+    <div class="lateralMenu">
+      <img src="./assets/logo.png" alt="Logo">
+      <div class="menuItens">
+        <ul>
+          <li>
+            <img src="./assets/dashboard.svg" alt="dashboard">
+            <p>Dashboard</p>
+          </li>
+          <li>
+            <img src="./assets/personagens.svg" alt="personagens">
+            <p>Personagens</p>
+          </li>
+          <li>
+            <img src="./assets/planetas.svg" alt="planetas">
+            <p>planetas e Luas</p>
+          </li>
+          <li>
+            <img src="./assets/nave.svg" alt="nave">
+            <p>Nave espaciais</p>
+          </li>
+        </ul>
+      </div>
+      <div class="settings">
+        <img src="./assets/settings 1.png" alt="settings">
+        <p>Configurações</p>
+      </div>
+    </div>
+    <div class="content">
+      <div class="cardHeader">
+
+        <div class="card cardSmall">
+          <div class="cardContent">
+            <div class="cardInfo">
+              <p>Personagens</p>
+              <h2 id="personagens"></h2>
+            </div>
+            <img src="./assets/personagens black.svg" alt="personagens black">
+          </div>
+        </div>
+
+        <div class="card cardLarge">
+          <div class="cardContainer">
+            <div class="cardContent">
+              <div class="cardInfo">
+                <p>Luas</p>
+                <h2 id="luas"></h2>
+              </div>
+              <img src="./assets/luas.svg" alt="nave black">
+            </div>
+
+            <div class="division"></div>
+
+            <div class="cardContent">
+              <div class="cardInfo">
+                <p>Planetas</p>
+                <h2 id="planetas"></h2>
+              </div>
+              <img src="./assets/planetas black.svg" alt="nave black">
+            </div>
+          </div>
+        </div>
+
+        <div class="card cardSmall">
+          <div class="cardContent">
+            <div class="cardInfo">
+              <p>Naves</p>
+              <h2 id="naves"></h2>
+            </div>
+            <img src="./assets/nave black.svg" alt="nave black">
+          </div>
+        </div>
+      </div>
+
+      <div class="contentInfo">
+        <div class="table">
+          <h5>Últimos filmes</h5>
+          <p>Saiba os últimos lançamento</p>
+          <table id="filmsTable">
+            <thead>
+              <tr>
+                <th>Título</th>
+                <th>Estréia</th>
+                <th>Diretor</th>
+                <th>Episódio</th>
+              </tr>
+            </thead>
+            
+            <tbody></tbody>
+          </table>
+        </div>
+
+        <div class="chart">
+          <div id="piechart" style="width: 380px; height: 380px;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>
