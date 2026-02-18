@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-Projeto criado com a playlist do canal [Papo de dev](https://www.youtube.com/watch?v=UxsNGdCUoNg&list=PLOUrDmh7c7mXIGqi-qI5YKjsLWAyaR0la&index=1), para ver clique [aqui](https://LucasFerreira.github.io/dashboard-star-wars/)
+Projeto criado com a playlist do canal [Papo de dev](LINK_YOUTUBE_AQUI), para ver clique [aqui](https://LucasFerreiraProgramador.github.io/dashboard-star-wars/)
 
 ## :rocket: Technologies ##
 
@@ -65,7 +65,7 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/LucasFerreira/dashboard-star-wars
+$ git clone https://github.com/LucasFerreiraProgramador/dashboard-star-wars
 
 # Access
 $ cd dashboard-star-wars
@@ -79,7 +79,7 @@ index.html
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="[https://github.com/LucasFerreira](https://github.com/LucasFerreiraProgramador)" target="_blank">Lucas Ferreira</a>
+Made with :heart: by <a href="https://github.com/LucasFerreiraProgramador" target="_blank">Lucas Ferreira</a>
 
 &#xa0;
 
