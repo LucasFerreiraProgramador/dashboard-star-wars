@@ -9,13 +9,14 @@
 <h1 align="center">Dashboard Star Wars</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/LucasFerreira/dashboard-star-wars?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/LucasFerreiraProgramador/dashboard-star-wars?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/LucasFerreira/dashboard-star-wars?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/LucasFerreiraProgramador/dashboard-star-wars?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasFerreira/dashboard-star-wars?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LucasFerreiraProgramador/dashboard-star-wars?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/LucasFerreira/dashboard-star-wars?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/LucasFerreiraProgramador/dashboard-star-wars?color=56BEB8">
+
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/dashboard-star-wars?color=56BEB8" /> -->
 
